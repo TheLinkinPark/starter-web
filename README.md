@@ -10,8 +10,12 @@ This is example to show parts of the Git repository and various commands using a
 
 As stated, the main purpose is to provide simple examples for Git training demos
 
-## How to contribute
-
 ## Deployment
 
 Simple web projects, deployment can be on any web server or local file system
+
+## How To Contribute 
+
+### Copyright
+
+2020 SK Equinox
