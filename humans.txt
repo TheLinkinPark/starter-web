@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    SK Equinox -- Mastermind -- @SKEquinox
 
 # THANKS
 
