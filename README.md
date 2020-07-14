@@ -20,4 +20,4 @@ Please fork this repo and issue pull request for review
 
 ### Copyright
 
-2020 SK Equinox
+2020 SK Equinox. All rights reserved.
